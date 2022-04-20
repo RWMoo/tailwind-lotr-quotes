@@ -117,7 +117,28 @@ const QuoteCard = () => {
             }
           }}
           className="w-1/2 h-56 bg-gradient-to-br from-zinc-700 to-zinc-900 opacity-70 rounded-sm shadow-lg overflow-hidden"
-        />
+        >
+          <motion.img
+            onClick={(e) => {
+              e.stopPropagation();
+            }}
+            draggable={false}
+            initial={{ scale: 2, opacity: 0.7 }}
+            animate={{
+              opacity: 0.2,
+              rotate: 180,
+              scale: 3.5,
+              transition: {
+                scale: {
+                  duration: 10
+                },
+                duration: 30,
+              },
+            }}
+            className="w-full object-bottom object-cover h-full "
+            src={smoke}
+          />
+        </motion.div>
       </AnimatePresence>
     </motion.div>
   );
