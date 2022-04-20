@@ -1,0 +1,1619 @@
+[
+  {
+    "id": 0,
+    "char": "Smeagol",
+    "dialog": "And we forgot the taste of bread, the sound of trees and the softness of the wind. We even forgot our own name.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 1,
+    "char": "Aragorn",
+    "dialog": "This day does not belong to one man, but to all. Let us together rebuild this world, that we may share in the days of peace.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 2,
+    "char": "Frodo Baggins",
+    "dialog": "And thus it was a Fourth Age of Middle Earth began. And the Fellowship of the Ring, though eternally bound by friendship and love was ended. Thirteen months to the day since Gandalf sent us on our long journey, we find ourselves looking upon a familiar sight.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 3,
+    "char": "Samwise Gamgee",
+    "dialog": "Oh alright, but we don't have that much left. We have to be careful, or we are going to run out. You go ahead and eat that Mr. Frodo. I've rationed it, there should be enough.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 4,
+    "char": "Frodo Baggins",
+    "dialog": "How do you pick up the threads of an old life? How do you go on, when in your heart you begin to understand there is no going back? There are some things that time cannot mend. Some hurts that go too deep, that have taken hold.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 5,
+    "char": "Samwise Gamgee",
+    "dialog": "There and Back Again, a Hobbits tale by Bilbo Baggins and the Lord of the Rings by Frodo Baggins. You finished it.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 6,
+    "char": "Frodo Baggins",
+    "dialog": "To the harbour Bilbo. The elves have accorded you a special honour. A place on the last ship to leave Middle Earth.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 7,
+    "char": "Peregrin 'Pippin' Took",
+    "dialog": "We are sitting on a field of victory enjoying a few well-earned comforts, the salted pork is particularly good.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/5/5e/PippinMoria.jpg/revision/latest/scale-to-width-down/500?cb=20160811200409"
+  },
+  {
+    "id": 8,
+    "char": "Treebeard",
+    "dialog": "Hoooom, young master Gandalf, I'm glad you've come. Wood and water, stock and stone I can master, but there is a Wizard to manage here locked in his tower.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 9,
+    "char": "Saruman",
+    "dialog": "You have fought many wars and slain many men Theoden King and made peace afterwards. Can we not take counsel together as we once did, my old friend? Can we not have peace you and I?",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/7/72/Saruman%3B_The_White.jpg/revision/latest/scale-to-width-down/220?cb=20140110234643"
+  },
+  {
+    "id": 10,
+    "char": "King Theoden",
+    "dialog": "We shall have peace'. We shall have peace when you answer for the burning of the Westfold and the children that lie dead there! We shall have peace when the lives of the soldiers whose bodies were hewn even as they lay dead against the gates of the Hornburg' are avenged! When you hang from a gibbet for the sport of your own crows' we shall have peace!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 11,
+    "char": "Saruman",
+    "dialog": "Gibbets and crows! Dotard! What do you want Gandalf Grahame? Let me guess' the key of Orthanc? Or perhaps the keys of Barad D'r itself? Along with the crowns of the seven Kings and the rods of the Five Wizards!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/7/72/Saruman%3B_The_White.jpg/revision/latest/scale-to-width-down/220?cb=20140110234643"
+  },
+  {
+    "id": 12,
+    "char": "Gandalf",
+    "dialog": "Your treachery has already cost many lives. Thousands more are now at risk. But you could save them Saruman. You were deep in the enemy's counsel.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 13,
+    "char": "King Theoden",
+    "dialog": "Grima! You need not follow him! You were not always as you are now. You were once a man of Rohan. Come down.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 14,
+    "char": "Saruman",
+    "dialog": "A man of Rohan? What is the house of Rohan but a thatched barn where brigands drink in the reek and their brats roll on the floor with the dogs? The victory at Helms Deep does not belong to you Theoden Horse Master. You are a lesser son of greater sires!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/7/72/Saruman%3B_The_White.jpg/revision/latest/scale-to-width-down/220?cb=20140110234643"
+  },
+  {
+    "id": 15,
+    "char": "Gandalf",
+    "dialog": "End? No, the journey doesn't end here. Death is just another path, one that we all must take. The grey rain curtain of this world rolls back and all turns to silvered glass. And then you see it.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 16,
+    "char": "Saruman",
+    "dialog": "You withdraw your guard, and I will tell you where your doom will be decided. I will not be held prisoner here!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/7/72/Saruman%3B_The_White.jpg/revision/latest/scale-to-width-down/220?cb=20140110234643"
+  },
+  {
+    "id": 17,
+    "char": "Gandalf",
+    "dialog": "Send word to all our allies and to every corner of Middle Earth that still stands free. The enemy moves against us. We need to know where he will strike.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 18,
+    "char": "Gandalf",
+    "dialog": "Retreat! The city is breached. Fall back to the second level. Get the women and children out. Get them out. Retreat.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 19,
+    "char": "Gandalf",
+    "dialog": "We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 20,
+    "char": "King Theoden",
+    "dialog": "Gamling, follow the King's banner down the centre. Grimbold! Take your company right after you pass the wall. Forth and fear no darkness! Arise! Arise riders of Theoden. Spears shall be shaken, shields shall be splintered, a sword day, a red day ere the sun rises!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 21,
+    "char": "Mouth of Sauron",
+    "dialog": "The Halfling was dear to thee I see. Know that he suffered greatly at the hands of his host. Who would've thought one so small could endure so much pain? And he did Gandalf, he did.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f2/Mouth_of_Sauron.png/revision/latest/scale-to-width-down/1000?cb=20210117030358"
+  },
+  {
+    "id": 22,
+    "char": "Denethor II",
+    "dialog": "You may triumph in the field of battle for a day, but against the power that has risen in the east, there is no victory!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/98/Lord_Denethor.jpg/revision/latest/scale-to-width-down/595?cb=20150330023544"
+  },
+  {
+    "id": 23,
+    "char": "Legolas",
+    "dialog": "One that is cursed. Long ago the men of the mountains swore an oath to the last King of Gondor, to come to his aid, to fight. But when the time came, when Gondor's need was dire, they fled vanishing into the darkness of the mountain. And so Isildur cursed them, never to rest until they had fulfilled their pledge. Who shall call them from the grey twilight, the forgotten people? The heir of him to whom the oath they swore. From the North shall he come; need shall drive him. He shall pass the door to the Paths of the Dead.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/34/934_legolas-gollum-80273301.jpg/revision/latest/scale-to-width-down/1000?cb=20121225094145"
+  },
+  {
+    "id": 24,
+    "char": "Éomer Éadig",
+    "dialog": "The scouts report Minas Tirith is surrounded. The lower level's in flames. Everywhere, legions of the enemy advance.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b9/Eomer_-_Close_up.PNG/revision/latest/scale-to-width-down/497?cb=20120922113500"
+  },
+  {
+    "id": 25,
+    "char": "Meriadoc 'Merry' Brandybuck",
+    "dialog": "My lady. You are fair and brave and have much to live for, and many who love you. I know it is too late to turn aside. I know there is not much point now in hoping. If I were a knight of Rohan capable of great deeds ‘but I'm not. I'm a Hobbit. And I know I can't save Middle Earth. I just want to help my friends; Frodo, Sam, Pippin. More than anything I wish I could see them again.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/d/d8/Merry1.jpg/revision/latest/scale-to-width-down/398?cb=20080318214905"
+  },
+  {
+    "id": 26,
+    "char": "Gimli",
+    "dialog": "Well this is a thing unheard of. An elf will go underground, where a dwarf dare not. Oh. Oh, I'd never hear the end of it.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 27,
+    "char": "King Theoden",
+    "dialog": "We must ride light and swift. It is a long road ahead and man and beast must reach the end with the strength to fight.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 28,
+    "char": "King of the Dead",
+    "dialog": "The way is shut! It was made by those who are dead. And the dead keep it. (The Ghostly army closes around them) The way is shut! Now you must die!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/d/dd/Kingofthedead.jpg/revision/latest/scale-to-width-down/1000?cb=20210117031718"
+  },
+  {
+    "id": 29,
+    "char": "Eowyn",
+    "dialog": "Why should Merry be left behind? He has as much cause to go to war as you. Why can he not fight for those he loves?",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 30,
+    "char": "Elrond",
+    "dialog": "I come on behalf of one whom I love. Arwen is dying. She will not long survive the evil that now spreads from Mordor. The light of the evenstar is failing. As Sauron's power grows her strength wanes. Arwen's life is now tied to the fate of the Ring. The Shadow is upon us Aragorn. The end has come.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 31,
+    "char": "Elrond",
+    "dialog": "You ride to war but not to victory. Sauron's armies ride on Minas Tirith, this you know. But in secret he sends another force, which will attack, from the river.  A fleet of Corsair ships sails from the South. They will be in the city in two days. You’re outnumbered Aragorn. You need more men.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 32,
+    "char": "Aragorn",
+    "dialog": "Murderers, traitors. You would call upon them to fight? They believe in nothing. They answer to no one",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 33,
+    "char": "Elrond",
+    "dialog": "They will answer to the King of Gondor.  And'ril, the Flame of the West, forged from the shards of Narsil.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 34,
+    "char": "Elrond",
+    "dialog": "The man who can wield the power of this sword can summon to him an army more deadly than any that walks this earth. Put aside the Ranger. Become who you were born to be 'nen i-Estel Edain.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 35,
+    "char": "Eowyn",
+    "dialog": "Why are you doing this? The war lies to the East. You cannot leave on the eve of battle. You cannot abandon the men.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 36,
+    "char": "Faramir",
+    "dialog": "It once belonged to a young boy of the city. A very foolish one who wasted many hours slaying dragons instead of attending his studies.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/3b/Faramir_rebuked.png/revision/latest/scale-to-width-down/1000?cb=20190127172009"
+  },
+  {
+    "id": 37,
+    "char": "Peregrin 'Pippin' Took",
+    "dialog": "Here do I swear fealty and service to Gondor in peace or war, in living or dying, from this hour henceforth until my lord release me or death take me.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/5/5e/PippinMoria.jpg/revision/latest/scale-to-width-down/500?cb=20160811200409"
+  },
+  {
+    "id": 38,
+    "char": "Gollum",
+    "dialog": "Sneaking? Sneaking? Fat Hobbit is always so polite. Smeagol shows them secret ways that nobody else could find and they say 'sneak! ‘sneak? Very nice friend, oh yes my precious very nice, very nice.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 39,
+    "char": "Gollum",
+    "dialog": "Look, what's this? Crumbs on his jacketses. He took it! , He took it! , I’ve seen him, he's always stuffing his face when master's not looking.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 40,
+    "char": "Samwise Gamgee",
+    "dialog": "Oh my! I'm sorry. I didn't mean it to go so far. I was just so, so angry! Here just' let's just rest a bit.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 41,
+    "char": "Samwise Gamgee",
+    "dialog": "No, no, you're not all right, you're exhausted. It's that Gollum. It's this place. It's that thing around your neck.  I could help a bit. I could carry it for a while, carry it for a while, I could carry it' I could carry it' Share the load' share the load' share the load",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 42,
+    "char": "Faramir",
+    "dialog": "Mithrandir! They broke through our defences. They've taken the bridge and the West bank. Battalions of Orcs are crossing the river.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/3b/Faramir_rebuked.png/revision/latest/scale-to-width-down/1000?cb=20190127172009"
+  },
+  {
+    "id": 43,
+    "char": "Faramir",
+    "dialog": "Where does my allegiance lie if not here? This is the city of the men of N'menor. I will gladly give my life to defend her beauty, her memory, her wisdom.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/3b/Faramir_rebuked.png/revision/latest/scale-to-width-down/1000?cb=20190127172009"
+  },
+  {
+    "id": 44,
+    "char": "Peregrin 'Pippin' Took",
+    "dialog": "well, yes. At least well enough for my own people. But we have no songs for great halls and evil times.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/5/5e/PippinMoria.jpg/revision/latest/scale-to-width-down/500?cb=20160811200409"
+  },
+  {
+    "id": 45,
+    "char": "Denethor II",
+    "dialog": "What you judged to be right! You sent the Ring of power into Mordor in the hands of a witless Halfling! It should have been brought back to the citadel to be kept safe. Hidden. Dark and deep in the vaults' not to be used. unless, at the uttermost end of need.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/98/Lord_Denethor.jpg/revision/latest/scale-to-width-down/595?cb=20150330023544"
+  },
+  {
+    "id": 46,
+    "char": "Denethor II",
+    "dialog": "Ever you desire to appear lordly and gracious as a King of old. Boromir would have remembered his father's need. He would have brought me a kingly gift",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/98/Lord_Denethor.jpg/revision/latest/scale-to-width-down/595?cb=20150330023544"
+  },
+  {
+    "id": 47,
+    "char": "Faramir",
+    "dialog": "Boromir would not have brought the Ring. He would have stretched out his hand to this thing and taking it, he would have fallen.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/3b/Faramir_rebuked.png/revision/latest/scale-to-width-down/1000?cb=20190127172009"
+  },
+  {
+    "id": 48,
+    "char": "Frodo Baggins",
+    "dialog": "Well, you've left out one of the chief characters, Samwise the Brave. I want to hear more about Sam.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 49,
+    "char": "Gollum",
+    "dialog": "Why does he hates poor Smeagol? What has Smeagol ever done to him? Master? Master carries a heavy burden Smeagol knows, heavy heavy burden. Fat one cannot know. He wants it. He needs it. Smeagol sees it in his eye.  Very soon he will ask you for it. You will see. The fat one will take it from you.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 50,
+    "char": "Faramir",
+    "dialog": "This is the old sewer. Runs right under the river through to the edge of the city. You'll find cover in the woods there.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/3b/Faramir_rebuked.png/revision/latest/scale-to-width-down/1000?cb=20190127172009"
+  },
+  {
+    "id": 51,
+    "char": "Samwise Gamgee",
+    "dialog": "Mr. Frodo didn't mean for them Rangers to hurt you. You know that, don't you? He was trying to save you, see?",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 52,
+    "char": "Madril",
+    "dialog": "Faramir! Orcs have taken the eastern shore. Their numbers are too great. By nightfall we will be overrun.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/99/Madril.jpg/revision/latest/scale-to-width-down/438?cb=20110515121707"
+  },
+  {
+    "id": 53,
+    "char": "Samwise Gamgee",
+    "dialog": "Do you want to know what happened to Boromir?  You want to know why your brother died? He tried to take the Ring from Frodo after swearing an oath to protect him! He tried to kill him! The Ring drove your brother mad.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 54,
+    "char": "Aragorn",
+    "dialog": "You said this fortress would never fall while your men defend it. They still defend it. They have died defending it.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 55,
+    "char": "King Theoden",
+    "dialog": "Yes...Yes...The horn of Helm Hammerhand...shall sound in the Deep...one last time.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 56,
+    "char": "Samwise Gamgee",
+    "dialog": "I know. It's all wrong. By rights, we shouldn't even be here. But we are. It's like in the great stories, Mr. Frodo. The ones that really mattered. Full of darkness and danger they were. And sometimes you didn't want to know the end...because how could the end be happy? How could the world go back to the way it was... when so much bad had happened?",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 57,
+    "char": "Samwise Gamgee",
+    "dialog": "But in the end, it's only a passing thing... this shadow. Even darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer. Those were the stories that stayed with you...that meant something. Even if you were too small to understand why. But I think, Mr. Frodo, I do understand. I know now.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 58,
+    "char": "Samwise Gamgee",
+    "dialog": "Folk in those stories...had lots of chances of turning back, only they didn't. They kept going...because they were holding on to something.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 59,
+    "char": "Madril",
+    "dialog": "You know the laws of our country, the laws of your father. If you let them go your life will be forfeit.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/99/Madril.jpg/revision/latest/scale-to-width-down/438?cb=20110515121707"
+  },
+  {
+    "id": 60,
+    "char": "Treebeard",
+    "dialog": "I will leave you at the western borders of the forest. You can make your way north to your homeland from there.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 61,
+    "char": "Peregrin 'Pippin' Took",
+    "dialog": "Yes. Exactly. If we go south, we can slip past Saruman unnoticed. The closer we are to danger, the farther we are from harm. It's the last thing he'll expect.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/5/5e/PippinMoria.jpg/revision/latest/scale-to-width-down/500?cb=20160811200409"
+  },
+  {
+    "id": 62,
+    "char": "Treebeard",
+    "dialog": "Come, my friends. The Ents are going to war. It is likely...that we go to our doom. Last march...of the Ents.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 63,
+    "char": "Peregrin 'Pippin' Took",
+    "dialog": "Maybe Treebeard's right. We don't belong here, Merry. It's too big for us. What can we do in the end? We've got the Shire. Maybe we should go home...",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/5/5e/PippinMoria.jpg/revision/latest/scale-to-width-down/500?cb=20160811200409"
+  },
+  {
+    "id": 64,
+    "char": "Boromir",
+    "dialog": "This city was once the jewel of our kingdom. A place of light and beauty and music. And so it shall be once more! Let the armies of Mordor know this: Never again will the land of my people fall into enemy hands. This city of Osgiliath has been reclaimed, for Gondor.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/61/FotR_-_Boromir_at_the_Council.png/revision/latest/scale-to-width-down/1000?cb=20210117223748"
+  },
+  {
+    "id": 65,
+    "char": "Denethor II",
+    "dialog": "Oh, too few. You let the enemy walk in and take it on a whim. Always you cast a poor reflection on me.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/98/Lord_Denethor.jpg/revision/latest/scale-to-width-down/595?cb=20150330023544"
+  },
+  {
+    "id": 66,
+    "char": "Denethor II",
+    "dialog": "Do not trouble me with Faramir...I know his uses, and they are few. We have more urgent things to speak of. Elrond of Rivendell has called a meeting. He will not say why, but I have guessed its purpose. It is rumored that the weapon of the enemy has been found.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/98/Lord_Denethor.jpg/revision/latest/scale-to-width-down/595?cb=20150330023544"
+  },
+  {
+    "id": 67,
+    "char": "Denethor II",
+    "dialog": "lt has fallen into the hands of the Elves. Everyone will try to claim it: Men, Dwarves, wizards. We cannot let that happen. This thing must come to Gondor.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/98/Lord_Denethor.jpg/revision/latest/scale-to-width-down/595?cb=20150330023544"
+  },
+  {
+    "id": 68,
+    "char": "Denethor II",
+    "dialog": "It's dangerous, I know. Ever the Ring will seek to corrupt the hearts of lesser Men. But you, you are strong. And our need is great. It is our blood which is being spilled, our people who are dying. Sauron is biding his time. He's massing fresh armies. He will return. And when he does, we will be powerless to stop him. You must go. Bring me back this mighty gift.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/98/Lord_Denethor.jpg/revision/latest/scale-to-width-down/595?cb=20150330023544"
+  },
+  {
+    "id": 69,
+    "char": "Frodo Baggins",
+    "dialog": "Wait. This creature is bound to me. And I to him. He is our guide. Please...Iet me go down to him.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 70,
+    "char": "Frodo Baggins",
+    "dialog": "Smeagol, you must trust master. Follow me. Come on. Come. Come, Smeagol. Nice Smeagol. That's it. Come on.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 71,
+    "char": "Elrond",
+    "dialog": "If Aragorn survives this war, you will still be parted. If Sauron is defeated and Aragorn made king...and all that you hope for comes true...you will still have to taste the bitterness of mortality.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 72,
+    "char": "Elrond",
+    "dialog": "Whether by the sword or the slow decay of time...Aragorn will die. And there will be no comfort for you...no comfort to ease the pain of his passing. He will come to death...an image of the splendor of the kings of Men...in glory undimmed before the breaking of the world.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 73,
+    "char": "Elrond",
+    "dialog": "But you, my daughter...you will linger on in darkness and in doubt...as nightfall in winter that comes without a star. Here you will dwell...bound to your grief under the fading trees... until all the world is changed...and the long years of your life are utterly spent.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 74,
+    "char": "Samwise Gamgee",
+    "dialog": "We have to get out of here. You go. Go, now. You can do it. Use the Ring, Mr. Frodo. Just this once. Put it on. Disappear.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 75,
+    "char": "Frodo Baggins",
+    "dialog": "I can't. You were right, Sam. You tried to tell me but... I'm sorry. The Ring's taking me, Sam. If I put it on...he'll find me. He'll see.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 76,
+    "char": "Faramir",
+    "dialog": "Saruman attacks from Isengard. Sauron from Mordor. The fight will come to Men on both fronts. Gondor is weak. Sauron will strike us soon. And he will strike hard. He knows now we do not have the strength to repel him.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/3b/Faramir_rebuked.png/revision/latest/scale-to-width-down/1000?cb=20190127172009"
+  },
+  {
+    "id": 77,
+    "char": "Frodo Baggins",
+    "dialog": "There was no other. We set out from Rivendell with seven companions. One we lost in Moria...two were my kin...a Dwarf there was also. And an Elf and two Men. Aragorn, son of Arathorn, and Boromir of Gondor.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 78,
+    "char": "Gimli",
+    "dialog": "Where is he? Where is he? Get out of the way! I'm going to kill him! You are the luckiest, the canniest...and the most reckless man I ever knew. Bless you, laddie.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 79,
+    "char": "Aragorn",
+    "dialog": "It is an army bred for a single purpose: To destroy the world of Men. They will be here by nightfall.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 80,
+    "char": "King Theoden",
+    "dialog": "We will cover the causeway and the gate from above. No army has ever breached the Deeping Wall...or set foot inside the Hornburg.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 81,
+    "char": "Faramir",
+    "dialog": "His horn washed up upon the riverbank, about six days past. It was cloven in two. But more than this, I know it in my heart. He was my brother.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/3b/Faramir_rebuked.png/revision/latest/scale-to-width-down/1000?cb=20190127172009"
+  },
+  {
+    "id": 82,
+    "char": "Gimli",
+    "dialog": "This is no rabble of mindless Orcs. These are Uruk-hai. Their armour is thick and their shields broad.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 83,
+    "char": "King Theoden",
+    "dialog": "They will break upon this fortress like water on rock. Saruman's hordes will pillage and burn. We've seen it before. Crops can be resown...homes rebuilt. Within these walls...we will outlast them.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 84,
+    "char": "Aragorn",
+    "dialog": "They do not come to destroy Rohan's crops or villages. They come to destroy its people...down to the last child.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 85,
+    "char": "King Theoden",
+    "dialog": "What would you have me do? Look at my men. Their courage hangs by a thread. If this is to be our end, then I would have them make such an end...as to be worthy of remembrance.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 86,
+    "char": "King Theoden",
+    "dialog": "And who will come? Elves? Dwarves? We are not so lucky in our friends as you. The old alliances are dead.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 87,
+    "char": "Arwen",
+    "dialog": "The light of the Evenstar does not wax and wane. It is mine to give to whom I will. Like my heart. Go to sleep.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/e9/Arwen_-_Sword.jpg/revision/latest/scale-to-width-down/1000?cb=20210625164216"
+  },
+  {
+    "id": 88,
+    "char": "Gollum",
+    "dialog": "We wants it. We needs it. Must have the precious. They stole it from us. Sneaky little Hobbitses. Wicked. Tricksy. False.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 89,
+    "char": "Treebeard",
+    "dialog": "We Ents have not troubled...about the wars of Men and wizards...for a very long time. But now, something is about to happen...that has not happened...for an age. Entmoot.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 90,
+    "char": "Treebeard",
+    "dialog": "Beech. Oak. Chestnut. Ash. Good. Good. Good. Many have come. Now we must decide if the Ents...will go to war.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 91,
+    "char": "Elrond",
+    "dialog": "Our time here is ending. Arwen's time is ending. Let her go. Let her take the ship into the west. Let her bear away her love for you to the Undying Lands. There it will be ever green.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 92,
+    "char": "Gríma Wormtongue",
+    "dialog": "No, from the North. One of the Dunedain Rangers thought he was. His cloth was poor. And yet he bore a strange ring. Two serpents with emerald eyes... One devouring the other crowned with golden flowers.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/4/47/Grima_and_King_Theoden_-_Two_Towers.png/revision/latest/scale-to-width-down/1000?cb=20121011122914"
+  },
+  {
+    "id": 93,
+    "char": "Samwise Gamgee",
+    "dialog": "You'll make him sick, you will...behaving like that. There's only one way to eat a brace of coneys.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 94,
+    "char": "Eowyn",
+    "dialog": "Women of this country learned long ago: Those without swords can still die upon them. I fear neither death nor pain.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 95,
+    "char": "Eowyn",
+    "dialog": "A cage. To stay behind bars until use and old age accept them. And all chance of valor has gone beyond recall or desire.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 96,
+    "char": "Gríma Wormtongue",
+    "dialog": "Theoden will not stay at Edoras. It's vulnerable. He knows this. He will expect an attack on the city. They will flee to Helm's Deep...the great fortress of Rohan. It is a dangerous road to take through the mountains. They will be slow. They will have women and children with them.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/4/47/Grima_and_King_Theoden_-_Two_Towers.png/revision/latest/scale-to-width-down/1000?cb=20121011122914"
+  },
+  {
+    "id": 97,
+    "char": "Samwise Gamgee",
+    "dialog": "Because. Because that's what he is, Mr. Frodo. There's naught left in him but lies and deceit. It's the Ring he wants. It's all he cares about.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 98,
+    "char": "Gollum",
+    "dialog": "Wicked Men. Servants of Sauron. They are called to Mordor. The Dark One is gathering all armies to him. It won't be long now. He will soon be ready.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 99,
+    "char": "Frodo Baggins",
+    "dialog": "We are bound to an errand of secrecy. Those that claim to oppose the enemy would do well not to hinder us.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 100,
+    "char": "Faramir",
+    "dialog": "The enemy? His sense of duty was no less than yours, I deem. You wonder what his name is...where he came from. And if he was evil at heart. What lies or threats led him on this long march from home. If he would not rather have stayed there...in peace. War will make corpses of us all. Bind their hands.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/3b/Faramir_rebuked.png/revision/latest/scale-to-width-down/1000?cb=20190127172009"
+  },
+  {
+    "id": 101,
+    "char": "Gimli",
+    "dialog": "It's true, you don't see many Dwarf women. And in fact, they are so alike in voice and appearance...that they're often mistaken for Dwarf men.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 102,
+    "char": "King Theoden",
+    "dialog": "Simbelmyne. Ever has it grown on the tombs of my forebearers. Now it shall cover the grave of my son. Alas that these evil days should be mine. The young perish and the old linger. That I should live...to see the last days of my house.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 103,
+    "char": "Gandalf",
+    "dialog": "He was strong in life. His spirit will find its way to the halls of your fathers. Westu h'l. Fer'u, Th'odred, Fer'u.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 104,
+    "char": "Eowyn",
+    "dialog": "They had no warning. They were unarmed. Now the Wild Men are moving through the Westfold, burning as they go. Rick, cot and tree.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 105,
+    "char": "Aragorn",
+    "dialog": "Sons of Gondor, of Rohan, my brothers. (They listen to him.) I see it in your eyes, the same fear that would take the heart of me. A day may come when the courage of men fails, when we forsake our friends and break all bonds of fellowship, but it is not this day! An hour of wolves and shattered shields when the age of men comes crashing down, but it is not this day! This day we fight!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 106,
+    "char": "Gandalf",
+    "dialog": "The veiling shadow that glowers in the east takes shape. Sauron will suffer no rival. From the summit of Barad-durhis Eye watches ceaselessly. But he is not so mighty yet that he is above fear. Doubt ever gnaws at him. The rumor has reached him. The heir of Numenor still lives.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 107,
+    "char": "Gimli",
+    "dialog": "This, in turn, has given rise to the belief...that there are no Dwarf women...and that Dwarves just spring out of holes in the ground...",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 108,
+    "char": "King Theoden",
+    "dialog": "I haven't seen my niece smile for a long time. She was a girl when they brought her father back dead. Cut down by Orcs. She watched her mother succumb to grief.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 109,
+    "char": "King Theoden",
+    "dialog": "Then she was left alone to tend her king in growing fear. Doomed to wait upon an old man who should have loved her as a father.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 110,
+    "char": "Gríma Wormtongue",
+    "dialog": "Helm's Deep has one weakness. Its outer wall is solid rock...but for a small culvert at its base... which is little more than a drain.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/4/47/Grima_and_King_Theoden_-_Two_Towers.png/revision/latest/scale-to-width-down/1000?cb=20121011122914"
+  },
+  {
+    "id": 111,
+    "char": "Gandalf",
+    "dialog": "This is but a taste of the terror that Saruman will unleash. All the more potent for he is driven now by fear of Sauron. Ride out and meet him head on. Draw him away from your women and children.  You must fight.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 112,
+    "char": "Aragorn",
+    "dialog": "You have 2000 good men riding north as we speak. Eomer is loyal to you. His men will return and fight for their king.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 113,
+    "char": "King Theoden",
+    "dialog": "They will be 300 leagues from here by now. Eomer cannot help us. I know what it is you want of me...but I will not bring further death to my people. I will not risk open war.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b0/Theoden_at_helms_deep.jpg/revision/latest/scale-to-width-down/1000?cb=20130322225343"
+  },
+  {
+    "id": 114,
+    "char": "Gimli",
+    "dialog": "They flee to the mountains when they should stand and fight. Who will defend them if not their king?",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 115,
+    "char": "Samwise Gamgee",
+    "dialog": "Do you remember the Shire Mr. Frodo? It will be Spring soon and the orchards will be in blossom. And the birds will be nesting in the hazel thickets. (He is crying.) And they will be sowing the summer barley in the lower fields, (Frodo opens his eyes and looks at him.) and eating the first of the strawberries and cream. Do you remember the taste of strawberries?",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 116,
+    "char": "Samwise Gamgee",
+    "dialog": "Then let us be rid of it once and for all! Come on Mr. Frodo, I can't carry it for you, but I can carry you! Come on!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 117,
+    "char": "Gandalf",
+    "dialog": "Sauron fears you, Aragorn. He fears what you may become. And so he'll strike hard and fast at the world of Men. He will use his puppet Saruman to destroy Rohan. War is coming. Rohan must defend itself and therein lies our first challenge...for Rohan is weak and ready to fall. The king's mind is enslaved it’s an old device of Saruman’s. His hold over King Theoden is now very strong. Sauron and Saruman are tightening the noose. But for all their cunning...we have one advantage. The Ring remains hidden. And that we should seek to destroy it...has not yet entered their darkest dreams. And so, the weapon of the enemy is moving towards Mordor...in the hands of a Hobbit. Each day brings it closer to the fires of Mount Doom. We must trust now in Frodo. Everything depends upon speed...and the secrecy of his quest.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 118,
+    "char": "Eowyn",
+    "dialog": "My uncle told me a strange thing. He said that you rode to war with Thengel, my grandfather. But he must be mistaken.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 119,
+    "char": "Eowyn",
+    "dialog": "You are one of the Dunedain. A descendant of Numenor blessed with long life. It was said that your race had passed into legend.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 120,
+    "char": "Saruman",
+    "dialog": "This night...the land will be stained with the blood of Rohan! March to Helm's Deep! Leave none alive.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/7/72/Saruman%3B_The_White.jpg/revision/latest/scale-to-width-down/220?cb=20140110234643"
+  },
+  {
+    "id": 121,
+    "char": "Treebeard",
+    "dialog": "There was a time...when Saruman would walk in my woods. But now he has a mind of metal...and wheels. He no longer cares for growing things.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 122,
+    "char": "Eowyn",
+    "dialog": "I have heard of the magic of Elves...but I did not look for it in a Ranger from the North. You speak as one of their own.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 123,
+    "char": "Gollum",
+    "dialog": "No! No! No, master! They catch you! They catch you! Don’t take it to him. He wants the precious. Always he is looking for it. And the precious is wanting to go back to him. But we mustn't let him have it.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 124,
+    "char": "Gimli",
+    "dialog": "Three days and nights pursuit. No food. No rest. And no sign of our quarry but what bare rock can tell.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 125,
+    "char": "Treebeard",
+    "dialog": "Side? I am on nobody's side...because nobody's on my side little Orc. Nobody cares for the woods anymore.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 126,
+    "char": "Gandalf",
+    "dialog": "I am a servant of the Secret Fire, wielder of the flame of Anor. Go back to the Shadow. The dark fire will not avail you, flame of Udun!",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 127,
+    "char": "Frodo Baggins",
+    "dialog": "I can see the Shire. The Brandywine River. Bag End. Gandalf's fireworks. The lights on the party tree.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 128,
+    "char": "Madril",
+    "dialog": "The Orcs are lying low. The garrison may have moved out. We’ve sent scouts to Cair Andros. If the Orcs attack from the North, we'll have some warning.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/99/Madril.jpg/revision/latest/scale-to-width-down/438?cb=20110515121707"
+  },
+  {
+    "id": 129,
+    "char": "Peregrin 'Pippin' Took",
+    "dialog": "I had the loveliest dream last night. There was this large barrel full of pipe-weed. And we smoked all of it. And then...you were sick. I'd give anything for a whiff of Old Toby.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/5/5e/PippinMoria.jpg/revision/latest/scale-to-width-down/500?cb=20160811200409"
+  },
+  {
+    "id": 130,
+    "char": "Aragorn",
+    "dialog": "Rohan. Home of the Horse-lords. There’s something strange at work here. Some evil gives speed to these creatures. Sets its will against us.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 131,
+    "char": "Saruman",
+    "dialog": "The world is changing. Who now has the strength to stand against the armies of Isengard...and Mordor? To stand against the might of Sauron and Saruman...and the union of the two towers?",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/7/72/Saruman%3B_The_White.jpg/revision/latest/scale-to-width-down/220?cb=20140110234643"
+  },
+  {
+    "id": 132,
+    "char": "Saruman",
+    "dialog": "The Old World will burnin the fires of industry. The forests will fall. A new order will rise. We will drive the machine of war with the sword and the spear... and the iron fists of the Orc. We have only to remove those who oppose us.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/7/72/Saruman%3B_The_White.jpg/revision/latest/scale-to-width-down/220?cb=20140110234643"
+  },
+  {
+    "id": 133,
+    "char": "Treebeard",
+    "dialog": "Hobbits? Never heard of a Hobbit before. Sounds like Orc mischief to me! , They come with fire. They come with axes. Gnawing, biting, breaking hacking, burning! Destroyers and usurpers! Curse them.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 134,
+    "char": "Samwise Gamgee",
+    "dialog": "Nothing. Just a bit of seasoning. I thought maybe if we was having a roast chicken one night or something.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 135,
+    "char": "Shagrat",
+    "dialog": "She jabs him with her stinger and he goes as limp as a boned fish aaa' then she has her way with them. That's how she likes to feed. Fresh blood. Get him to the Tower!",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/25/Shagrat.jpg/revision/latest/scale-to-width-down/715?cb=20190205204114"
+  },
+  {
+    "id": 136,
+    "char": "Meriadoc 'Merry' Brandybuck",
+    "dialog": "You remember the Old Foreston the borders of Buckland? Folk used to say there was something in the water that made the trees grow tall...and come alive.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/d/d8/Merry1.jpg/revision/latest/scale-to-width-down/398?cb=20080318214905"
+  },
+  {
+    "id": 137,
+    "char": "Treebeard",
+    "dialog": "It isn't safe. The trees have grown wild and dangerous. Anger festers in their hearts. Black are their thoughts. Strong is their hate. They will harm you if they can. There are too few of us now. Too few of us Ents left to manage them.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 138,
+    "char": "Frodo Baggins",
+    "dialog": "Give it to me! Give me the Ring Sam. Sam! Give me the Ring. You must understand. The Ring is my burden. It will destroy you Sam.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/38/Frodo_Baggins_and_Strider.png/revision/latest/scale-to-width-down/640?cb=20181014232137"
+  },
+  {
+    "id": 139,
+    "char": "Samwise Gamgee",
+    "dialog": "Come on Mr. Frodo. We'd best find you some clothes. You can't go walking through Mordor in nowt but your skin.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 140,
+    "char": "Gandalf",
+    "dialog": "It's only a matter of time. He has suffered a defeat, yes, but behind the walls of Mordor our enemy is regrouping.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 141,
+    "char": "Saruman",
+    "dialog": "We have only to remove those who oppose us. It will begin in Rohan. Too long have these peasants stood against you. But no more.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/7/72/Saruman%3B_The_White.jpg/revision/latest/scale-to-width-down/220?cb=20140110234643"
+  },
+  {
+    "id": 142,
+    "char": "Gollum",
+    "dialog": "All dead. All rotten. Elves and Men and Orcses. A great battle long ago. Dead Marshes. Yes. Yes, that is their name. This way. Don't follow the lights.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 143,
+    "char": "Samwise Gamgee",
+    "dialog": "It must be getting near teatime. Leastways it would be in decent places where there is still teatime.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 144,
+    "char": "Samwise Gamgee",
+    "dialog": "Yes you will. Of course you will. That’s just morbid thinking. We’re going there and back again just like Mr. Bilbo. You’ll see.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 145,
+    "char": "Samwise Gamgee",
+    "dialog": "Who's gonna follow us down here Mr. Frodo? It’s a shame, really. Lady Galadriel gave me that. Real Elvish rope. Well, there's nothing for it. It's one of my knots. Won't come free in a hurry.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 146,
+    "char": "Samwise Gamgee",
+    "dialog": "Mordor. The one place in Middle-earth we don't want to see any closer. And it's the one place we’re trying to get to. It’s just where we can't get. Let’s face it, Mr. Frodo, we're lost. I don't think Gandalf meant for us to come this way.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 147,
+    "char": "Bilbo Baggins",
+    "dialog": "I'm sorry I brought this upon you my boy, I'm sorry that you must carry this burden, I'm sorry for everything",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/68/Bilbo_baggins.jpg/revision/latest/scale-to-width-down/289?cb=20130202022550"
+  },
+  {
+    "id": 148,
+    "char": "Elrond",
+    "dialog": "The Ringbearer is setting out on the quest of Mount Doom and you who travel with him, no oath nor bond is laid to go further than you will, Farewell. Hold to your purpose and may the blessings of elves, and men, and all free folk, go with you.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 149,
+    "char": "Boromir",
+    "dialog": "The shards of Narsil, the blade that cut the Ring from Sauron's hand, Ah! It’s still sharp , but no more than a broken heirloom",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/61/FotR_-_Boromir_at_the_Council.png/revision/latest/scale-to-width-down/1000?cb=20210117223748"
+  },
+  {
+    "id": 150,
+    "char": "Aragorn",
+    "dialog": "I am Aragorn, son of Arathorn. This is Gimli, son of Gloin and Legolas of the Woodland Realm. We are friends of Rohan and of Theoden, your king.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 151,
+    "char": "Eowyn",
+    "dialog": "Just to the encampment. It’s tradition for the women of the court to farewell the men.  The men have found their captain. They will follow you into battle. Even to death. You have given us hope.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 152,
+    "char": "Treebeard",
+    "dialog": "Die? No. We lost them. And now we cannot find them. I don't suppose you've seen Entwives in the Shire?",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/2/23/TreebeardatIsengard.png/revision/latest/scale-to-width-down/1000?cb=20210117035345"
+  },
+  {
+    "id": 153,
+    "char": "Gandalf",
+    "dialog": "Edoras and the Golden Hall of Medusoid. There dwells Theoden, King of Rohan... whose mind is overthrown. Saruman's hold over King Theoden is now very strong.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 154,
+    "char": "Gríma Wormtongue",
+    "dialog": "Oh, he must have died sometime in the night. What a tragedy for the king...to lose his only son and heir.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/4/47/Grima_and_King_Theoden_-_Two_Towers.png/revision/latest/scale-to-width-down/1000?cb=20121011122914"
+  },
+  {
+    "id": 155,
+    "char": "Aragorn",
+    "dialog": "No. There is still hope for Frodo. He needs time and safe passage across the plains of Gorgoroth. We can give him that.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 156,
+    "char": "Aragorn",
+    "dialog": "Draw out Sauron's armies. Empty his lands. Then we gather our full strength and march on the Black Gate.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 157,
+    "char": "Aragorn",
+    "dialog": "Not for ourselves. But we can give Frodo his chance if we keep Sauron's eye fixed upon us. Keep him blind to all else that moves.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 158,
+    "char": "Peregrin 'Pippin' Took",
+    "dialog": "So I imagine this is just a ceremonial position. I mean, they don't actually expect me to do any fighting, do they?",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/5/5e/PippinMoria.jpg/revision/latest/scale-to-width-down/500?cb=20160811200409"
+  },
+  {
+    "id": 159,
+    "char": "Gandalf",
+    "dialog": "There never was much hope. Just a fool's hope.  Our enemy is ready. His full strength's gathered. Not only orcs, but men as well, Legions of Haradrim from the South, mercenaries from the coast, all will answer Mordor's call.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 160,
+    "char": "Gollum",
+    "dialog": "The thieves... The thieves. The filthy little thieves. Where is it?...Where is it? They stole it from us...My precious...Curse them, we hates them! It’s ours, it is, and we wants it.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 161,
+    "char": "Samwise Gamgee",
+    "dialog": "Quiet, you! It’s hopeless. Every Orc in Mordor’s going to hear this racket. Let’s just tie him up and leave him.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 162,
+    "char": "Gollum",
+    "dialog": "We be nice to them if they be nice to us. Take it off us. We swears to do what you wants...We swears.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 163,
+    "char": "Gandalf",
+    "dialog": "We must hold this course west of the Misty Mountains for forty days. If our luck holds the Gap of Rohan will still be open to us.  and there are road turns east to Mordor.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 164,
+    "char": "Gimli",
+    "dialog": "If anyone was to ask for my opinion, which I note that they're not, I'd say that we were taking the long way round. Gandalf, we could pass through the Mines of Moria. My cousin Balin would give us a royal welcome.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 165,
+    "char": "Arwen",
+    "dialog": "Your time will come. You will face the same evil and you will defeat it A si i-Dh'ath '-orthor, Aragorn. ' or le a ' or nin.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/e9/Arwen_-_Sword.jpg/revision/latest/scale-to-width-down/1000?cb=20210625164216"
+  },
+  {
+    "id": 166,
+    "char": "Arwen",
+    "dialog": "and to that I hold. I would rather share one lifetime with you than face all the ages of this world alone",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/e9/Arwen_-_Sword.jpg/revision/latest/scale-to-width-down/1000?cb=20210625164216"
+  },
+  {
+    "id": 167,
+    "char": "Elrond",
+    "dialog": "Strangers from distant lands, friends of old. You have been summoned here to answer the threat of Mordor. Middle Earth stands upon the brink of destruction. None can escape it. You will unite or you will fall. Each race is bound to this fate, this one doom.  Bring forth the Ring, Frodo",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 168,
+    "char": "Boromir",
+    "dialog": "In a dream, I saw the Eastern sky grow dark, In the West a pale light lingered A voice was crying, your doom is near at hand, Isildur's bane is found, Isildur's Bane",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/61/FotR_-_Boromir_at_the_Council.png/revision/latest/scale-to-width-down/1000?cb=20210117223748"
+  },
+  {
+    "id": 169,
+    "char": "Aragorn",
+    "dialog": "We are no spies. We track a party of Uruk-hai westward across the plain. They have taken two of our friends’ captive.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 170,
+    "char": "Gríma Wormtongue",
+    "dialog": "Oh, but you are alone. Who knows what you've spoken to the darkness ...in the bitter watches of the night...when all your life seems to shrink. The walls of your bower closing in about you. A hutch to trammel some wild thing in. So fair. So cold. Like a morning of pale spring...still clinging to winter's chill.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/4/47/Grima_and_King_Theoden_-_Two_Towers.png/revision/latest/scale-to-width-down/1000?cb=20121011122914"
+  },
+  {
+    "id": 171,
+    "char": "Gandalf",
+    "dialog": "Be silent. Keep your forked tongue behind your teeth. I have not passed through fire and death...to bandy crooked words with a witless worm.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 172,
+    "char": "Éomer Éadig",
+    "dialog": "Orcs are roaming freely across our lands. Unchecked. Unchallenged. Killing at will. Orcs bearing the White Hand of Saruman",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b9/Eomer_-_Close_up.PNG/revision/latest/scale-to-width-down/497?cb=20120922113500"
+  },
+  {
+    "id": 173,
+    "char": "Gríma Wormtongue",
+    "dialog": "Why do you lay these troubles on an already troubled mind? Can you not see? Your uncle is wearied by your malcontent...your warmongering.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/4/47/Grima_and_King_Theoden_-_Two_Towers.png/revision/latest/scale-to-width-down/1000?cb=20121011122914"
+  },
+  {
+    "id": 174,
+    "char": "Éomer Éadig",
+    "dialog": "Warmongering? How long is it since Saruman bought you? What was the promised price, Grima? When all the Men are dead you will take your share of the treasure?",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/b/b9/Eomer_-_Close_up.PNG/revision/latest/scale-to-width-down/497?cb=20120922113500"
+  },
+  {
+    "id": 175,
+    "char": "Gríma Wormtongue",
+    "dialog": "Too much. You are banished forthwith from the kingdom of Rohan...and all its domains under pain of death.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/4/47/Grima_and_King_Theoden_-_Two_Towers.png/revision/latest/scale-to-width-down/1000?cb=20121011122914"
+  },
+  {
+    "id": 176,
+    "char": "Gandalf",
+    "dialog": "This will be the end of Gondor as we know it. Here the hammer stroke will fall hardest. If the river is taken, if the garrison at Osgiliath falls, the last defence of this city will be gone.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 177,
+    "char": "Galadriel",
+    "dialog": "I amar prestar aen Han mathon ne nen Han mathon ne chae A han noston ned gwilith Much that once was is lost. For none now live who remember it.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Galadriel_in_The_Hobbit_AUJ.jpg/revision/latest/scale-to-width-down/1000?cb=20131224061037"
+  },
+  {
+    "id": 178,
+    "char": "Gandalf",
+    "dialog": "and the Ring? You feel its power growing don't you. I've felt it too. You must be careful now. Evil will be drawn to you from outside the Fellowship and I fear from within.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 179,
+    "char": "Gandalf",
+    "dialog": "There are many powers in this world for good or for evil. Some are greater than I am and against some I have not yet been tested",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 180,
+    "char": "Gandalf",
+    "dialog": "Oh it's quite simple. If you are a friend, you speak the password and the doors will open, Annon Edhellen, edro hi ammen! .",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 181,
+    "char": "Gollum",
+    "dialog": "We swears...to serve the master ...of the precious. We will swear on...on the precious Gollum. Gollum.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 182,
+    "char": "Farmer Maggot",
+    "dialog": "Hoi! You get back here! Wait till I get this through you! Get out of my fields! You'll know the devil if I catch up with you.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Farmer-maggot.JPG/revision/latest/scale-to-width-down/1000?cb=20200226012519"
+  },
+  {
+    "id": 183,
+    "char": "Peregrin 'Pippin' Took",
+    "dialog": "and some cabbages and those few bags of potatoes that we lifted last week. And the mushrooms the week before.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/5/5e/PippinMoria.jpg/revision/latest/scale-to-width-down/500?cb=20160811200409"
+  },
+  {
+    "id": 184,
+    "char": "Boromir",
+    "dialog": "It is a strange fate that we should suffer so much fear and doubt over so small a thing, such a little thing",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/61/FotR_-_Boromir_at_the_Council.png/revision/latest/scale-to-width-down/1000?cb=20210117223748"
+  },
+  {
+    "id": 185,
+    "char": "Gandalf",
+    "dialog": "I do not ask your pardon Master Elrond for the Black Speech of Mordor may yet be heard in every corner of the West, The Ring is altogether evil",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 186,
+    "char": "Samwise Gamgee",
+    "dialog": "Hey, what's in this tunnel? You listen to me! You listen good and proper. Anything happens to him; you'll have me to answer to. One sniff that something's not right, one hair that stands up on the back of my neck, it’s over. No more slinker, no more stinker. You're gone. Got it? I'm watching you.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 187,
+    "char": "Ted Sandyman",
+    "dialog": "Children's stories that's all that is. You're beginning to sound like that old Bilbo Baggins! Cracked he was.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/60/Ted_sandyman.png/revision/latest/scale-to-width-down/218?cb=20111030155735"
+  },
+  {
+    "id": 188,
+    "char": "Elrond",
+    "dialog": "Take her by the safest road. A ship lies anchored in the Grey Havens. It waits to carry her across the sea. The last journey of Arwen Und'miel.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/39/Elrond_in_Rivendell_-_The_Hobbit.jpg/revision/latest/scale-to-width-down/1000?cb=20121118121504"
+  },
+  {
+    "id": 189,
+    "char": "Meriadoc 'Merry' Brandybuck and Peregrin 'Pippin' Took",
+    "dialog": "Oh you can search far and wide, you can drink the whole town dry, but you'll never find a beer so brown, but you'll never find a beer so brown, As the one we drink in our hometown, As the one we drink in our hometown. You can drink your fancy ales, you can drink them by the flagon but the only brew for the brave and true.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/4/48/Merry_and_Pippin_captured.jpg/revision/latest/scale-to-width-down/275?cb=20130517181527"
+  },
+  {
+    "id": 190,
+    "char": "Gandalf",
+    "dialog": "Knock your head against these doors Peregrin Took! and if that does not shatter them and I'm allowed a little peace from foolish questions I will try to find the opening words.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 191,
+    "char": "Gollum",
+    "dialog": "No. Ashes and dust and thirst there is and pits, pits, pits. And Orcses, thousands of Orcses. And always the Great Eye watching, watching.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 192,
+    "char": "Samwise Gamgee",
+    "dialog": "Hey! Come back now! Come back! There! What did I tell you? He’s run off, the old villain. So much for his promises.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/8/89/FotR_-_Sam_with_flowers.jpg/revision/latest/scale-to-width-down/1000?cb=20190103025127"
+  },
+  {
+    "id": 193,
+    "char": "Boromir",
+    "dialog": "One does not simply walk into Mordor. Its black gates are guarded by more than just orcs. There is evil there that does not sleep, and the great eye is ever watchful. Is a barren wasteland, riddled with fire and ash and dust. The very air you breathe is a poisonous fume. Not with ten thousand men could you do this. It is folly",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/61/FotR_-_Boromir_at_the_Council.png/revision/latest/scale-to-width-down/1000?cb=20210117223748"
+  },
+  {
+    "id": 194,
+    "char": "Gandalf",
+    "dialog": "Do you not understand that while we bicker amongst ourselves, Sauron's power grows?! None can escape it! You'll all be destroyed",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 195,
+    "char": "Gandalf",
+    "dialog": "Stars wheeled overhead...and every day was as long as a life age of the Earth. But it was not the end. I felt life in me again.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 196,
+    "char": "Gimli",
+    "dialog": "Then we have run all this way for nothing? Are we to leave those poor Hobbits here...in this horrid, dark, dank tree-infested--? I mean, charming...quite charming forest.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 197,
+    "char": "Gandalf",
+    "dialog": "It was more than mere chance that brought Merry and Pippin to Fangorn.A great power has been sleeping here for many long years. The coming of Merry and Pippin will be like the falling of small stones...that starts an avalanche in the mountains.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 198,
+    "char": "Gandalf",
+    "dialog": "A thing is about to happen that has not happened since the Elder Days. The Ents are going to wake up...and find that they are strong.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 199,
+    "char": "Ted Sandyman",
+    "dialog": "Well it's none of our concern what goes on beyond our borders. Keep your nose out of trouble and no trouble will come to you.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/60/Ted_sandyman.png/revision/latest/scale-to-width-down/218?cb=20111030155735"
+  },
+  {
+    "id": 200,
+    "char": "Arwen",
+    "dialog": "From the ashes of fire shall be woken, A light from the shadow shall spring, renewed shall be blade that was broken, the crownless again shall be king.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/e9/Arwen_-_Sword.jpg/revision/latest/scale-to-width-down/1000?cb=20210625164216"
+  },
+  {
+    "id": 201,
+    "char": "Gandalf",
+    "dialog": "Yes the white tree of Gondor. The tree of the King. Lord Denethor, however, is not the King. He is a steward only, a caretaker of the throne.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 202,
+    "char": "Gandalf",
+    "dialog": "Now listen carefully. Lord Denethor is Boromir's father. To give him news of his beloved son's death would be most unwise. And do not mention Frodo or the Ring. And say nothing of Aragorn either. In fact, it’s better if you don't speak at all Peregrin Took.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 203,
+    "char": "Gimli",
+    "dialog": "Soon Mr. Elf, you will enjoy the fabled hospitality of the dwarves. Roaring fires! Malt Beer! Red Meat off the bone.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/919?cb=20121008105956"
+  },
+  {
+    "id": 204,
+    "char": "Meriadoc 'Merry' Brandybuck",
+    "dialog": "That black rider was looking for something. Or someone (he walks up to Frodo and looks him in the face) Frodo?",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/d/d8/Merry1.jpg/revision/latest/scale-to-width-down/398?cb=20080318214905"
+  },
+  {
+    "id": 205,
+    "char": "Gandalf",
+    "dialog": "So stop your fretting, Master Dwarf. Merry and Pippin are quite safe. In fact, they are far safer than you are about to be.",
+    "movie": "The Two Towers",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 206,
+    "char": "Bilbo Baggins",
+    "dialog": "My dear Bagginses and Boffins, Tooks and Brandybucks, Grubbs, Chubbs, Hornblowers, Bulgers, Bracegirdles, and Proudfoots.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/68/Bilbo_baggins.jpg/revision/latest/scale-to-width-down/289?cb=20130202022550"
+  },
+  {
+    "id": 207,
+    "char": "Gandalf",
+    "dialog": "My lord, there will be a time to grieve for Boromir, but it is not now. War is coming. The enemy is on your doorstep. As steward, you are charged with the defence of this city. Where are Gondor's armies? You still have friends. You are not alone in this fight. Send word to Theoden of Rohan. Light the beacons.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 208,
+    "char": "Denethor II",
+    "dialog": "You think you are wise Mithrandir. Yet for all your subtleties you have not wisdom. Do you think the eyes of the White Tower are blind? I have seen more than you know. With your left hand you would use me as a shield against Mordor and with your right you would seek to supplant me. I know who rides with Theoden of Rohan. Oh yes, word has reached my ears of this Aragorn, son of Arathorn. And I tell you now. I will not bow to this Ranger from the North. Last of a ragged house long bereft of Lordship.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/9/98/Lord_Denethor.jpg/revision/latest/scale-to-width-down/595?cb=20150330023544"
+  },
+  {
+    "id": 209,
+    "char": "Gandalf",
+    "dialog": "All had turned to vain ambition. He would use even his grief as a cloak! A thousand years this city has stood and now at the whim of a madman it will fall! And the white tree, the tree of the King will never bloom again.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 210,
+    "char": "Gollum",
+    "dialog": "And when they go in, there's no coming out. She's always hungry. She always needs to' feed. She must eat. All she gets is filthy Orcses.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 211,
+    "char": "Gollum",
+    "dialog": "No, not very nice at all, my love. She hungers for sweeter meats.  Hobbit meat. And when she throws away the bones and the empty clothes, then we will find it.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 212,
+    "char": "Gandalf",
+    "dialog": "We now have but one choice, we must face the long dark of Moria. Be on your guard, there are older and fouler things than orcs in the deep places of the world",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 213,
+    "char": "Bilbo Baggins",
+    "dialog": "Alas, elevnty-one years is far too short a time to live among such excellent and admirable hobbits. I don't know half of you half as well as I should like and I like less than half of you, half as well as you deserve.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/68/Bilbo_baggins.jpg/revision/latest/scale-to-width-down/289?cb=20130202022550"
+  },
+  {
+    "id": 214,
+    "char": "Gandalf",
+    "dialog": "This is not the weather of the world. This is a device of Sauron's making. A broil of fume he sends ahead of his host. The Orcs of Mordor have no love of daylight, so he covers the face of the sun to ease their passage along the road to war. When the shadow of Mordor reaches this city, it will begin.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 215,
+    "char": "Gandalf",
+    "dialog": "If you're referring to the incident with the dragon, I was barely involved. All I did was give your uncle a little nudge out of the door.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 216,
+    "char": "Gollum",
+    "dialog": "Never! Smeagol wouldn't hurt a fly! Aaaagh he is a horrid, fat Hobbit who hates Smeagol and who makes up nasty lies.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest/scale-to-width-down/960?cb=20120907014131"
+  },
+  {
+    "id": 217,
+    "char": "Gandalf",
+    "dialog": "Escaped or was set loose and now the Ring has drawn him here, He won't ever be rid of his need for it. He hates and loves the Ring, as he hates and loves himself. Smeagol's life is a sad story, yes, he was once called, before the Ring found him. Before it drove him mad",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 218,
+    "char": "Gandalf",
+    "dialog": "So do all who live to see such times, but that is not for them to decide. All we have to decide is what to do with the time that is given to us. There are other forces at work in this world, Frodo, besides the will of evil. Bilbo was meant to find the Ring; in which case you also were meant to have it and that is an encouraging thought. Oh! It’s that way",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/1/15/Gandalf_finds_Thrain.jpg/revision/latest/scale-to-width-down/1000?cb=20180730022502"
+  },
+  {
+    "id": 219,
+    "char": "Barliman Butterbur",
+    "dialog": "Good Evening little masters. What can I do for you? If you're looking for accommodation, we've got some nice, cosy hobbit sized rooms available. Always proud to cater to the little folk, Mr. err...?",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/peter-jacksons-the-lord-of-the-rings-trilogy/images/0/03/David_Weatherley_as_Barliman_Butterbur.jpg/revision/latest/scale-to-width-down/320?cb=20151007211754"
+  },
+  {
+    "id": 220,
+    "char": "Barliman Butterbur",
+    "dialog": "Gandalf? Gandalf...? Oh yes! I remember! Elderly chap! Big grey beard, pointy hat.  Not seen him for six months.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/peter-jacksons-the-lord-of-the-rings-trilogy/images/0/03/David_Weatherley_as_Barliman_Butterbur.jpg/revision/latest/scale-to-width-down/320?cb=20151007211754"
+  },
+  {
+    "id": 221,
+    "char": "Bilbo Baggins",
+    "dialog": "Tea or maybe something a little stronger? I've got a few bottles of the Old Winyard left, 1296, a very good year, almost as old as I am.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/68/Bilbo_baggins.jpg/revision/latest/scale-to-width-down/289?cb=20130202022550"
+  },
+  {
+    "id": 222,
+    "char": "Bilbo Baggins",
+    "dialog": "I was expecting you sometime last week. Not that it matters; you come and go as you please. Always have done and always will.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/68/Bilbo_baggins.jpg/revision/latest/scale-to-width-down/289?cb=20130202022550"
+  },
+  {
+    "id": 223,
+    "char": "Eowyn",
+    "dialog": "I dreamed I saw a great wave climbing over green lands and above the hills. I stood upon the brink. It was utterly dark in the abyss before my feet. A light shone behind me, but I could not turn, I could only stand there, waiting.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/f/f3/%C3%89owyn_of_Rohan_-_Screencap_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210604154550"
+  },
+  {
+    "id": 224,
+    "char": "Legolas",
+    "dialog": "The stars are veiled. Something stirs in the East, a sleepless malice, The eye of the enemy is moving.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/3/34/934_legolas-gollum-80273301.jpg/revision/latest/scale-to-width-down/1000?cb=20121225094145"
+  },
+  {
+    "id": 225,
+    "char": "Barliman Butterbur",
+    "dialog": "He's one of them rangers. They're dangerous folk they are. Wandering the wilds. What his right name is, I've never heard, but round here, he's known as Strider.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/peter-jacksons-the-lord-of-the-rings-trilogy/images/0/03/David_Weatherley_as_Barliman_Butterbur.jpg/revision/latest/scale-to-width-down/320?cb=20151007211754"
+  },
+  {
+    "id": 226,
+    "char": "Peregrin 'Pippin' Took",
+    "dialog": "Baggins? Sure, I know a Baggins! He’s over there. Frodo Baggins! He's my second cousin once removed on his mother's side, and my third cousin twice removed on his father's side, if you follow me.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/5/5e/PippinMoria.jpg/revision/latest/scale-to-width-down/500?cb=20160811200409"
+  },
+  {
+    "id": 227,
+    "char": "Bilbo Baggins",
+    "dialog": "You've caught me a bit unprepared I'm afraid urm we've only got cold chicken and a bit of pickle oh and there's some cheese here, oh no that won’t do! Urm we've got raspberry jam, an apple tart, but we've not much for afters. Oh no we're all right, I've found some sponge cake! I can make you some eggs if you ' oh'. Gandalf?",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/6/68/Bilbo_baggins.jpg/revision/latest/scale-to-width-down/289?cb=20130202022550"
+  },
+  {
+    "id": 228,
+    "char": "Aragorn",
+    "dialog": "You have a stout heart little hobbit! But that will not save you. You can no longer wait for the wizard Frodo. They're coming",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 229,
+    "char": "Aragorn",
+    "dialog": "They were once men. Great Kings of Men. The Sauron the Deceiver gave to them nine rings of power. Blinded by their greed they took them without question. One by one falling into darkness, now they are slaves to his will. They are the Nazg'l. Ringwraiths. Neither living nor dead. At all times they feel the presence of the Ring, drawn to the power of the One, they will never stop hunting you.",
+    "movie": "The Fellowship of the Ring",
+    "image": "https://static.wikia.nocookie.net/lotr/images/0/09/Aragorn_3.jpg/revision/latest/scale-to-width-down/640?cb=20100617184918"
+  },
+  {
+    "id": 230,
+    "char": "Meriadoc 'Merry' Brandybuck",
+    "dialog": "Don't you understand? The enemy thinks you have the ring! He is going to be looking for you Pip. They have to get you out of here.",
+    "movie": "The Return of the King",
+    "image": "https://static.wikia.nocookie.net/lotr/images/d/d8/Merry1.jpg/revision/latest/scale-to-width-down/398?cb=20080318214905"
+  }
+]
