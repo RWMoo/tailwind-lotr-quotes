@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Ringbearer";
+  src: url(/public/fonts/RingbearerMedium.ttf);
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Cormorant-Italic";
+  src: url(/public/fonts/Cormorant-Italic.ttf);
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Cormorant-LightItalic";
+  src: url(/public/fonts/Cormorant-LightItalic.ttf);
+  font-style: normal;
+  font-weight: 400;
+}
