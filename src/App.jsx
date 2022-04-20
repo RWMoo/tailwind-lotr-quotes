@@ -9,7 +9,7 @@ import QuoteCard from "./components/QuoteCard";
 const App = () => {
   const [count, setCount] = useState(0);
   return (
-     <div className="flex justify-center items-center h-screen overflow-hidden">
+     <div className="flex justify-center items-center h-screen overflow-hidden bg-gradient-to-br from-zinc-800 to-zinc-900">
         <QuoteCard/>
      </div>
   );
