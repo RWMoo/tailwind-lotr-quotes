@@ -93,13 +93,17 @@ const buttonVariants = {
     opacity: 0.8,
     scale: 1,
     transition: {
-      delay: 2.5,
-    },
+      delay: 2.5
+    }
   },
   exit: {
     scale: 1.2,
     opacity: 0,
   },
+  hover: {
+    scale:1.2,
+    transition: { ease: "easeOut"},
+  }
 };
 
 const QuoteCard = () => {
@@ -126,7 +130,7 @@ const QuoteCard = () => {
   const dragTransition = { bounceStiffness: 220, bounceDamping: 20 };
 
   return (
-    <div className="flex justify-between items-center gap-8 h-1/2 z-40">
+    <div className="relative flex justify-between items-center gap-8 h-4/5 xs:h-3/5 lg:h-1/2 self-center z-40">
       <motion.div className="h-full" ref={constraintsRef}>
         <AnimatePresence className={"w-full"} custom={direction}>
           <NextButton
@@ -154,10 +158,9 @@ const QuoteCard = () => {
             drag
             dragSnapToOrigin
             dragTransition={dragTransition}
-            dragElastic={0.2}
             dragMomentum={false}
             onDragEnd={onDragEnd}
-            className="w-64 md:w-96 h-full relative top-0 left-0 bg-gray-700 rounded-sm shadow-xl cursor-pointer overflow-hidden"
+            className="w-72 md:w-96 h-full relative top-0 left-0 bg-gray-700 rounded-sm shadow-xl cursor-pointer overflow-hidden"
           >
             <SmokeLayer />
             <ImageLayer src={quotes[quoteIndex].image} />
@@ -211,7 +214,8 @@ const TextLayer = ({ quote }) => {
     <div className="absolute text-white top-0 left-0 z-30 h-full">
       <div className="flex flex-col justify-between h-full p-6 md:p-7">
         <div>
-          <p className="font-cormorant mb-1 text-sm md:text-lg">
+          <p            className="font-cormorant mb-1 text-sm md:text-lg"
+          >
             {quote.movie}
           </p>
           <p
@@ -238,14 +242,12 @@ const NextButton = ({ paginate, disabled }) => {
   return (
     <motion.button
       disabled={disabled}
-      className="text-xl xs:text-2xl md:text-3xl lg:text-4xl text-white left-5 xs:left-4 sm:left-20 lg:left-40 xl:left-80 2xl:left-96 z-40 inset-y-0 absolute"
+      className="text-xl xs:text-2xl md:text-3xl lg:text-4xl text-white -left-9 sm:-left-28 md:-left-36 -z-20 inset-y-0 absolute"
       variants={buttonVariants}
       initial="initial"
       animate="animate"
+      whileHover={"hover"}
       exit="exit"
-      onKeyPress={(e) => {
-        console.log(123);
-      }}
       onClick={() => {
         paginate(1);
       }}
@@ -258,11 +260,13 @@ const NextButton = ({ paginate, disabled }) => {
 const PrevButton = ({ paginate, disabled }) => {
   return (
     <motion.button
-      className="text-xl xs:text-2xl md:text-3xl lg:text-4xl text-white right-5 xs:right-4 sm:right-20 lg:right-40 xl:right-80 2xl:right-96 z-40 inset-y-0 absolute"
+      disabled={disabled}
+      className="text-xl xs:text-2xl md:text-3xl lg:text-4xl text-white -right-9 sm:-right-28 md:-right-36 -z-20 inset-y-0 absolute"
       variants={buttonVariants}
       initial="initial"
       animate="animate"
       exit="exit"
+      whileHover={"hover"}
       onClick={() => {
         paginate(-1);
       }}
