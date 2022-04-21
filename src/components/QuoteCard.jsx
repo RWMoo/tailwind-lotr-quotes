@@ -191,7 +191,7 @@ const SmokeLayer = () => {
       variants={smokeVariants}
       initial={"initial"}
       animate={"animate"}
-      className="w-full absolute z-40 top-0 left-0 object-bottom object-cover h-full"
+      className="w-full absolute z-50 top-0 left-0 object-bottom object-cover h-full"
       src={smoke}
     />
   );
@@ -207,7 +207,7 @@ const ImageLayer = ({ src }) => {
       variants={imageVariants}
       initial="initial"
       animate="animate"
-      className="w-full absolute top-0 left-0 object-top object-cover h-full bg-zinc-500 z-20 mix-blend-overlay"
+      className="w-full absolute top-0 left-0 object-top object-cover h-full bg-zinc-500 z-20"
       src={src}
     />
   );
