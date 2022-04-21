@@ -93,21 +93,21 @@ const buttonVariants = {
     opacity: 0.8,
     scale: 1,
     transition: {
-      delay: 2.5
-    }
+      delay: 2.5,
+    },
   },
   exit: {
     scale: 1.2,
     opacity: 0,
   },
   hover: {
-    scale:1.2,
-    transition: { ease: "easeOut"},
-  }
+    scale: 1.2,
+    transition: { ease: "easeOut" },
+  },
 };
 
 const QuoteCard = () => {
-  const width = useWidth() + 200;
+  const width = useWidth();
   const swipeConfidenceThreshold = 40000;
   const constraintsRef = useRef(null);
   const [disabled, setDisabled] = useState(false);
@@ -126,22 +126,24 @@ const QuoteCard = () => {
       paginate(-1);
     }
   };
-
+  console.log(width)
   const dragTransition = { bounceStiffness: 220, bounceDamping: 20 };
 
   return (
-    <div className="relative flex justify-between items-center gap-8 h-4/5 xs:h-3/5 lg:h-1/2 self-center z-40">
-      <motion.div className="h-full" ref={constraintsRef}>
+    <div className="relative flex justify-between items-center h-4/5 xs:h-3/5 self-center z-40 w-full px-6">
+      <motion.div className="h-full w-full" ref={constraintsRef}>
         <AnimatePresence className={"w-full"} custom={direction}>
-          <NextButton
-            key={`${page}next`}
-            paginate={paginate}
-            disabled={disabled}
-          />
+          {width > 640 && (
+            <NextButton
+              key={`${page}next`}
+              paginate={paginate}
+              disabled={disabled}
+            />
+          )}
           <motion.div
             key={page}
             custom={direction}
-            variants={containerVariants(width)}
+            variants={containerVariants(width + 200)}
             initial="enter"
             animate={"center"}
             exit={"exit"}
@@ -160,17 +162,19 @@ const QuoteCard = () => {
             dragTransition={dragTransition}
             dragMomentum={false}
             onDragEnd={onDragEnd}
-            className="w-72 md:w-96 h-full relative top-0 left-0 bg-gray-700 rounded-sm shadow-xl cursor-pointer overflow-hidden"
+            className="w-full max-w-sm mx-auto md:w-96 h-full relative top-0 left-0 bg-gray-700 rounded-sm shadow-xl cursor-pointer overflow-hidden"
           >
             <SmokeLayer />
             <ImageLayer src={quotes[quoteIndex].image} />
             <TextLayer quote={quotes[quoteIndex]} />
           </motion.div>
-          <PrevButton
-            key={`${page}prev`}
-            paginate={paginate}
-            disabled={disabled}
-          />
+          {width > 500 && (
+            <PrevButton
+              key={`${page}prev`}
+              paginate={paginate}
+              disabled={disabled}
+            />
+          )}
         </AnimatePresence>
       </motion.div>
     </div>
@@ -203,7 +207,7 @@ const ImageLayer = ({ src }) => {
       variants={imageVariants}
       initial="initial"
       animate="animate"
-      className="w-full absolute top-0 left-0 object-top object-cover h-full"
+      className="w-full absolute top-0 left-0 object-top object-cover h-full bg-zinc-500 mix-blend-overlay"
       src={src}
     />
   );
@@ -214,13 +218,10 @@ const TextLayer = ({ quote }) => {
     <div className="absolute text-white top-0 left-0 z-30 h-full">
       <div className="flex flex-col justify-between h-full p-6 md:p-7">
         <div>
-          <p            className="font-cormorant mb-1 text-sm md:text-lg"
-          >
-            {quote.movie}
-          </p>
+          <p className="font-cormorant mb-1 text-lg">{quote.movie}</p>
           <p
             className={`font-ringbearer ${
-              quote.char.length > 12 ? "text-xl" : "text-3xl"
+              quote.char.length > 12 ? "text-2xl" : "text-4xl"
             } md:text-3xl`}
           >
             {quote.char}
@@ -228,7 +229,7 @@ const TextLayer = ({ quote }) => {
         </div>
         <p
           className={`font-cormorant-light ${
-            quote.dialog.length > 150 ? "text-base" : "text-xl"
+            quote.dialog.length > 150 ? "text-lg" : "text-2xl"
           }  md:text-xl leading-snug`}
         >
           {quote.dialog}
@@ -242,7 +243,7 @@ const NextButton = ({ paginate, disabled }) => {
   return (
     <motion.button
       disabled={disabled}
-      className="text-xl xs:text-2xl md:text-3xl lg:text-4xl text-white -left-9 sm:-left-28 md:-left-36 -z-20 inset-y-0 absolute"
+      className="text-xl xs:text-2xl md:text-3xl lg:text-4xl text-white absolute inset-y-0 left-8 sm:left-16 md:left-32 lg:left-48 xl:left-80 2xl:left-96"
       variants={buttonVariants}
       initial="initial"
       animate="animate"
@@ -261,7 +262,7 @@ const PrevButton = ({ paginate, disabled }) => {
   return (
     <motion.button
       disabled={disabled}
-      className="text-xl xs:text-2xl md:text-3xl lg:text-4xl text-white -right-9 sm:-right-28 md:-right-36 -z-20 inset-y-0 absolute"
+      className="text-xl xs:text-2xl md:text-3xl lg:text-4xl text-white absolute inset-y-0 right-8 sm:right-16 md:right-32 lg:right-48 xl:right-80 2xl:right-96"
       variants={buttonVariants}
       initial="initial"
       animate="animate"

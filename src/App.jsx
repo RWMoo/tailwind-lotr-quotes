@@ -45,7 +45,7 @@ const App = () => {
           Movie Quotes
         </h2>
       </div>
-      <div className="flex h-full justify-center mt-8">
+      <div className="flex h-full w-full justify-center mt-8 xl:mt-16 2xl:mt-32">
         <QuoteCard />
       </div>
       <motion.img
