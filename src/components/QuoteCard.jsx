@@ -74,9 +74,9 @@ const smokeVariants = {
 };
 
 const imageVariants = {
-  initial: { scale: 1.1, opacity: 0.9 },
+  initial: { scale: 1.1, opacity: 0.7 },
   animate: {
-    opacity: 0.8,
+    opacity: 0.6,
     scale: 1.4,
     transition: {
       duration: 30,
@@ -230,7 +230,7 @@ const TextLayer = ({ quote }) => {
         <p
           className={`font-cormorant-light ${
             quote.dialog.length > 350 ? "text-lg" : "text-2xl"
-          }  md:text-xl leading-snug`}
+          }  md:text-2xl leading-snug`}
         >
           {quote.dialog}
         </p>
