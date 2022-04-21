@@ -229,7 +229,7 @@ const TextLayer = ({ quote }) => {
         </div>
         <p
           className={`font-cormorant-light ${
-            quote.dialog.length > 250 ? "text-lg" : "text-2xl"
+            quote.dialog.length > 350 ? "text-lg" : "text-2xl"
           }  md:text-xl leading-snug`}
         >
           {quote.dialog}
