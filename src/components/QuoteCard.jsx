@@ -207,7 +207,7 @@ const ImageLayer = ({ src }) => {
       variants={imageVariants}
       initial="initial"
       animate="animate"
-      className="w-full absolute top-0 left-0 object-top object-cover h-full bg-zinc-500 mix-blend-overlay"
+      className="w-full absolute top-0 left-0 object-top object-cover h-full bg-zinc-500 z-40 mix-blend-overlay"
       src={src}
     />
   );
