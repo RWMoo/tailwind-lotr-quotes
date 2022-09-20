@@ -126,7 +126,6 @@ const QuoteCard = () => {
       paginate(-1);
     }
   };
-  console.log(width)
   const dragTransition = { bounceStiffness: 220, bounceDamping: 20 };
 
   return (
